@@ -17,6 +17,8 @@ A radar-style object detection system using an ultrasonic sensor and servo motor
 - The radar UI displays:
   - Green sweeping line
   - Red blip if an object is within a set threshold (e.g., 20 cm)
+  - 
+![Radar Output](assets/WhatsApp%20Image%202025-05-02%20at%2021.32.55.jpeg)
 
 ## 💻 Project Structure
 ```
