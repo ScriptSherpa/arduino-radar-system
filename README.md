@@ -19,7 +19,7 @@ A radar-style object detection system using an ultrasonic sensor and servo motor
   - Red blip if an object is within a set threshold (e.g., 20 cm)
   - 
 ![Radar Output](assets/WhatsApp%20Image%202025-05-02%20at%2021.32.55.jpeg)
-
+assets/WhatsApp Image 2025-05-02 at 21.33.01 (1).jpeg
 ## 💻 Project Structure
 ```
 
@@ -52,7 +52,7 @@ Objects within **20 cm** trigger a red alert on the radar screen.
 - Save detection logs with timestamps
 
 ## 📸 Preview
-*(Add a screenshot or GIF of the radar screen from Processing)*
+![Radar Output](assets/kkkkkkkkkk.jpeg)
 
 ## 📜 License
 MIT License
