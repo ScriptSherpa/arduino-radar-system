@@ -1,5 +1,5 @@
 
-# Arduino Radar System 🚨🟢
+# Arduino Radar System 🚨
 
 A radar-style object detection system using an ultrasonic sensor and servo motor. Visualized in real-time using the Processing IDE with green radar sweep and red blips for nearby obstacles.
 
